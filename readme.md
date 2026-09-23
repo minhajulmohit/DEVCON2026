@@ -6,7 +6,7 @@ DevCon2026 is a modern developer conference landing page built with HTML and CSS
 
 ## 📸 Screenshot
 
-(./Screenshot.png)
+./Screenshot.png
 
 ---
 
